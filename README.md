@@ -20,7 +20,7 @@ Before starting Jupyter Notebook, ensure that you have the following packages in
 
 ## About the data sources
 
-The original data on job outcomes was released by American Community Survey, which conducts surveys and aggregates the data. FiveThirtyEight cleaned the dataset and released it on [their Github repo](https://github.com/fivethirtyeight/data/tree/master/college-majors).
+The original data on job outcomes was released by [American Community Survey](https://www.census.gov/), which conducts surveys and aggregates the data. FiveThirtyEight cleaned the dataset and released it on [their Github repo](https://github.com/fivethirtyeight/data/tree/master/college-majors).
 
 See the contents of the Notebook for more details about the data used.
 
