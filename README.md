@@ -6,7 +6,7 @@ This project was a 'guided project' as part of learning data analytics with [Dat
 
 ## Results
 
-To display the result, simply [click the .ipynb file](https://github.com/jasperquak/analyzing_nyc_highschool_data/blob/main/AnalyzingNYCHighSchoolData.ipynb) in this repository. It will open in a Notebook viewer.
+To display the result, simply [click the .ipynb file](https://github.com/jasperquak/visualizing_earnings_college_majors/blob/main/VisualizingEarningsCollegeMajors.ipynb) in this repository. It will open in a Notebook viewer.
 
 ## Reproduction
 
